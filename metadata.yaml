@@ -1,0 +1,32 @@
+_repo: Foundling-on-Venus_29181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: De Courcy, John
+    alias: Courcy, John de
+    gutenberg_agent_id: '33743'
+    url: http://www.gutenberg.org/2009/agents/33743
+  - agent_name: De Courcy, Dorothy
+    alias: Courcy, Dorothy de
+    gutenberg_agent_id: '33744'
+    url: http://www.gutenberg.org/2009/agents/33744
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcc 'PS'
+title: Foundling on Venus
+url: http://www.gutenberg.org/ebooks/29181
